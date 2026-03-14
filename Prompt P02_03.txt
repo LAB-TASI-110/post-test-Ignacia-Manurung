@@ -1,0 +1,57 @@
+buatlah program bahasa C yaitu dengan membuat sistem yang mendukung sistem operasional kafetaria IT Del
+
+dengan ketentuan sitem operasional kafetaria IT Delnya yaitu sebagai berikut:
+yang perlu dikeluarkan oleh komputer:
+1. Sistem jadwal piket makan (khusus untuk makan hari Senin pagi sampai jumat siang)
+sarapan: 06.45-07.00
+makan siang: 12.00-12.15
+makan malam: 06.45-07.00
+2. Sistem jadwal makan (khusus untuk makan hari Senin pagi sampai jumat siang)
+sarapan: 07.00-07.15
+makan siang: 12.15-12.30
+makan malam: 07.00-07.15
+3. Sistem jadwal makan (khusus untuk makan hari jumat malam sampai sabtu siang)
+sarapan sabtu pagi: 07.00-09.00
+makan siang sabtu siang: 12.00-14.00
+makan malam jumat malam: 07.00-08.30
+4. Sistem pengambilan makanan:
+Senin pagi-jumat siang piket makan
+Jumat malam- sabtu siang: prasmanan (self-service)
+5. Tempat duduk di kantin untuk makan
+kantin 1 lantai 1
+kantin 1 lantai 2
+kantin 2 lantai 1
+kantin 2 lantai 2
+kantin tengah bawah
+kantin tengah atas
+
+---
+input:
+nama
+nim
+prodi
+hari
+kategori waktu makan (pagi, siang, malam)
+jadwal piket makan kah hari ini?
+tempat duduk untuk makan
+
+output:
+Ignacia Putri Manurung
+12S25034
+Sistem Informasi
+Jumat malam
+Tidak
+Kantin tengah atas
+---
+
+dengan kriteria program:
+1. melakukan input dan output yang terstruktur
+2. platform yang digunakan untuk mengeksekusi program adalah virtual studio code
+3. sistem operasi yang digunakan adalah windows
+4. tidak ada batasan negatif atau yang harus dihindari
+5. anda sebagai ahli pemrograman bahasa c dan pesona tertentu
+6. berikan penjelasan dari penjabaran pemrograman seperti variabel, fungsi dan yang lainnya
+7. tidak perlu membuat pembatas khusus untuk membedakan bagian konteks respon saya
+8. menggunakan bahasa c yaitu bahasa c23
+9. ketika di runkan tidak mengeluarkan outputan yang error
+10.  menggunakan satu fungsi saja

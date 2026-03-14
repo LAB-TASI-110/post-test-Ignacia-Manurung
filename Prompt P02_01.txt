@@ -1,0 +1,41 @@
+buatlah sebuah program bahasa C
+daftar ongkos kirim perkilogram ke bbrp kota tujuan
+kode kota, nama kota, ongkos kirim/kg, keterangan
+MDN, medan, 8rb, dalam pulau
+BLG, balige, 5rb, dalam pulau
+JKT, Jakarta, 12rb, luar pulau
+SBY, Surabaya, 13rb, luar pulau
+
+ada promo diskon yaitu
+syarat, promo yg didapatkan
+lebih dari 10kg, diskon ongkir 10%
+pengiriman ke kota luar pulau, mendapatkan asuransi gratis
+
+terdapat perbedaan dua yaitu
+butet xkg
+ucok 3/2x berat paket butet
+
+---
+input: 
+MDN
+5
+JKT
+3
+BLG
+4
+END
+
+output: 
+Kota tujuan, Berat paket Butet, Berat paket Ucok, Total berat, Total ongkos kirim, Informasi promo yang diperoleh
+
+dengan kriteria program:
+1. melakukan input dan output yang terstruktur
+2. platform yang digunakan untuk mengeksekusi program adalah virtual studio code
+3. sistem operasi yang digunakan adalah windows
+4. tidak ada batasan negatif atau yang harus dihindari
+5. anda sebagai ahli pemrograman bahasa c dan pesona tertentu
+6. berikan penjelasan dari penjabaran pemrograman seperti variabel, fungsi dan yang lainnya
+7. tidak perlu membuat pembatas khusus untuk membedakan bagian konteks respon saya
+8. menggunakan bahasa c yaitu bahasa c23
+9. ketika di runkan tidak mengeluarkan outputan yang error
+10.  menggunakan satu fungsi saja

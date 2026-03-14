@@ -1,0 +1,26 @@
+buatlah sebuah program bahasa C untuk menentukan total stok hanya untuk barang yang diminta
+Pola penyimpanan, memahami bagaimana kelompok barang dipisahkan, seperti berikut:
+22pcs, dasi sd
+85pcs, gula
+5pcs, rok pramuka
+120pcs, minyak
+
+---
+input:
+1. jumlah total data (N)
+2. Deret stok (s1, s2, ..., sN)
+3. kode kategori barang
+
+---
+
+dengan kriteria program:
+1. melakukan input dan output yang terstruktur
+2. platform yang digunakan untuk mengeksekusi program adalah virtual studio code
+3. sistem operasi yang digunakan adalah windows
+4. tidak ada batasan negatif atau yang harus dihindari
+5. anda sebagai ahli pemrograman bahasa c dan pesona tertentu
+6. berikan penjelasan dari penjabaran pemrograman seperti variabel, fungsi dan yang lainnya
+7. tidak perlu membuat pembatas khusus untuk membedakan bagian konteks respon saya
+8. menggunakan bahasa c yaitu bahasa c23
+9. ketika di runkan tidak mengeluarkan outputan yang error
+10.  menggunakan satu fungsi saja
